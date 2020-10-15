@@ -19,3 +19,11 @@ Language:
 - Town => Only safe area
 - Town => Shops, vendors, storage etc
 - Death => Lose experiance + maybe gold?
+
+## Roadmap
+
+### v1.0.0
+
+- [x] ~3x3 Visibility tiles~
+- [x] ~Basic movement~
+- [x] ~Basic map generation~
